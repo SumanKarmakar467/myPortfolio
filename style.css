@@ -157,8 +157,16 @@ h1{
 .col-2{
     grid-column:span 2;
 }
-.about{
-    
+.about-me{
+    /* min-height:100vh; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-bottom:20px;
+    gap:20px;
+    padding:0.5rem 0.9rem;
 }
 
 @media(max-width:768px){
