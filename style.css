@@ -32,7 +32,7 @@ body{
     align-items: center;
     border-bottom: 2px solid var(--light-gray);
 }
-/* @media (max-width:) */
+
 .header{
     position: sticky;
     top:0;
