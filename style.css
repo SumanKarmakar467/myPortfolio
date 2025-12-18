@@ -55,7 +55,7 @@ h1{
     color: var(--primary-color);
 }
 .links{
-    color: var(--gray);
+    color: var(--gray)
 }
 .menu-button{
     display:none;
