@@ -167,7 +167,10 @@ h1{
     gap:20px;
     padding:0.5rem 0.9rem;
 }
-.des1{
+.me{
+    border-bottom: 2px solid var(--background-color);
+}
+.des1, .des2{
     font-size: 1.7rem;
     color: var(--dark-gray);
 }
