@@ -20,7 +20,7 @@ body{
     background-color: var(--background-color);
     padding:0.1rem;
 }
-.container{
+.containr{
     max-width:1280px;
     margin:0 auto;
     padding:0 20px;
