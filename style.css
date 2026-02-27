@@ -4,7 +4,7 @@
     box-sizing: border-box;
     text-decoration: none;
 }
-:rot{
+:root{
     --primary-color: #6366F1;
     --accent-color: #3f83f8;
     --text-color: #333333;
