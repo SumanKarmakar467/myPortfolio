@@ -25,7 +25,7 @@ body{
     margin:0 auto;
     padding:0 20px;
 }
-.navbar{
+.nvbar{
     display: flex;
     justify-content: space-between;
     padding:1rem;
